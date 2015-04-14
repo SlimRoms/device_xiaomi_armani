@@ -1,0 +1,119 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "da141535_73bb20c5",
+        "filename": "overlay/frameworks/base/core/res/res/values/config.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 103,
+      "author": {
+        "id": 1000016
+      },
+      "writtenOn": "2015-04-14T19:21:19Z",
+      "side": 1,
+      "message": "whitespace",
+      "range": {
+        "startLine": 103,
+        "startChar": 0,
+        "endLine": 103,
+        "endChar": 4
+      },
+      "revId": "0f7056b45dfdc257bb20477c08e678c0504781ae",
+      "serverId": "f8201d64-d729-4630-b91d-5f8be02869f0",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "da141535_53b01cdd",
+        "filename": "overlay/frameworks/base/core/res/res/values/config.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 111,
+      "author": {
+        "id": 1000016
+      },
+      "writtenOn": "2015-04-14T19:21:19Z",
+      "side": 1,
+      "message": "more whitespace",
+      "range": {
+        "startLine": 111,
+        "startChar": 57,
+        "endLine": 111,
+        "endChar": 58
+      },
+      "revId": "0f7056b45dfdc257bb20477c08e678c0504781ae",
+      "serverId": "f8201d64-d729-4630-b91d-5f8be02869f0",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "da141535_33b5a8cd",
+        "filename": "overlay/frameworks/base/core/res/res/values/config.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 114,
+      "author": {
+        "id": 1000016
+      },
+      "writtenOn": "2015-04-14T19:21:19Z",
+      "side": 1,
+      "message": "more whitespace",
+      "range": {
+        "startLine": 114,
+        "startChar": 89,
+        "endLine": 114,
+        "endChar": 90
+      },
+      "revId": "0f7056b45dfdc257bb20477c08e678c0504781ae",
+      "serverId": "f8201d64-d729-4630-b91d-5f8be02869f0",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "da141535_13caa44f",
+        "filename": "overlay/frameworks/base/core/res/res/values/config.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 118,
+      "author": {
+        "id": 1000016
+      },
+      "writtenOn": "2015-04-14T19:21:19Z",
+      "side": 1,
+      "message": "more whitespace",
+      "range": {
+        "startLine": 118,
+        "startChar": 57,
+        "endLine": 118,
+        "endChar": 58
+      },
+      "revId": "0f7056b45dfdc257bb20477c08e678c0504781ae",
+      "serverId": "f8201d64-d729-4630-b91d-5f8be02869f0",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "da141535_93b6b4db",
+        "filename": "slim.mk",
+        "patchSetId": 1
+      },
+      "lineNbr": 1,
+      "author": {
+        "id": 1000016
+      },
+      "writtenOn": "2015-04-14T19:21:19Z",
+      "side": 1,
+      "message": "Slim",
+      "range": {
+        "startLine": 1,
+        "startChar": 22,
+        "endLine": 1,
+        "endChar": 24
+      },
+      "revId": "0f7056b45dfdc257bb20477c08e678c0504781ae",
+      "serverId": "f8201d64-d729-4630-b91d-5f8be02869f0",
+      "unresolved": false
+    }
+  ]
+}
