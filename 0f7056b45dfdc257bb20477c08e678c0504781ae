@@ -94,6 +94,23 @@
     },
     {
       "key": {
+        "uuid": "ba092121_5804bd14",
+        "filename": "slim.dependencies",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2015-04-15T06:36:26Z",
+      "side": 1,
+      "message": "qcom_common is also in the manifest.",
+      "revId": "0f7056b45dfdc257bb20477c08e678c0504781ae",
+      "serverId": "f8201d64-d729-4630-b91d-5f8be02869f0",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "da141535_f3cdf05e",
         "filename": "slim.dependencies",
         "patchSetId": 1
