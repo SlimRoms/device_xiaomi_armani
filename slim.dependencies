@@ -1,7 +1,7 @@
 [
  {
-  "repository":  "SlimRoms/kernel_xiaomi_armani",
+  "repository":  "armani-dev/android_kernel_xiaomi_armani",
   "target_path": "kernel/xiaomi/armani",
-  "branch":      "lp5.1"
+  "branch":      "cm-12.1"
  }
 ]
