@@ -1,0 +1,50 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "3a1d315d_bdace38d",
+        "filename": "overlay/frameworks/base/core/res/res/values/config.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 196,
+      "author": {
+        "id": 1000043
+      },
+      "writtenOn": "2015-05-17T16:52:13Z",
+      "side": 1,
+      "message": "We don\u0027t have volume rocker option right now",
+      "range": {
+        "startLine": 196,
+        "startChar": 12,
+        "endLine": 196,
+        "endChar": 14
+      },
+      "revId": "2ed09dd4a2dc3933d95f01707e72abb0298f2045",
+      "serverId": "f8201d64-d729-4630-b91d-5f8be02869f0",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3a1d315d_dd9f9f4f",
+        "filename": "overlay/frameworks/base/core/res/res/values/config.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 213,
+      "author": {
+        "id": 1000043
+      },
+      "writtenOn": "2015-05-17T16:52:13Z",
+      "side": 1,
+      "message": "Doesn\u0027t exists.",
+      "range": {
+        "startLine": 213,
+        "startChar": 19,
+        "endLine": 213,
+        "endChar": 48
+      },
+      "revId": "2ed09dd4a2dc3933d95f01707e72abb0298f2045",
+      "serverId": "f8201d64-d729-4630-b91d-5f8be02869f0",
+      "unresolved": false
+    }
+  ]
+}
