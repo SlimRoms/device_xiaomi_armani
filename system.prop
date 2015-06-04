@@ -16,10 +16,20 @@ use.voice.path.for.pcm.voip=true
 # Display
 ro.opengles.version=196608
 ro.sf.lcd_density=320
-debug.sf.hw=1
-debug.composition.type=c2d
 persist.hwc.mdpcomp.enable=true
-debug.mdpcomp.logs=0
+ro.hwui.texture_cache_size=72
+ro.hwui.layer_cache_size=48
+ro.hwui.r_buffer_cache_size=8
+ro.hwui.path_cache_size=32
+ro.hwui.gradient_cache_size=1
+ro.hwui.drop_shadow_cache_size=6
+ro.hwui.texture_cache_flushrate=0.4
+ro.hwui.text_small_cache_width=1024
+ro.hwui.text_small_cache_height=1024
+ro.hwui.text_large_cache_width=2048
+ro.hwui.text_large_cache_height=1024
+
+drm.service.enabled=true
 
 # Media
 media.stagefright.enable-player=true
